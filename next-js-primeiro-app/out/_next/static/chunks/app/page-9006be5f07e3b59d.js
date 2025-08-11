@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[974],{1216:(e,n,t)=>{Promise.resolve().then(t.bind(t,5047))},5047:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>r});var s=t(5155),u=t(8999);function r(){return(0,s.jsx)("button",{onClick:function(){(0,u.useRouter)().push("/teste")},children:"Avan\xe7ar tela"})}}},e=>{e.O(0,[441,964,358],()=>e(e.s=1216)),_N_E=e.O()}]);
